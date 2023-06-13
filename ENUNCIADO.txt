@@ -5,8 +5,7 @@ Caro (a)Fabio José,
 Chegamos no final da nossa disciplina e você irá realizar um projeto para demonstrar as competências aprendidas aqui. 
 
 Escolha uma base de dados. Essa base deve ser multivariada e possuir uma variável objetivo, que pode ser usada na fase de treino 
-(modelos supervisionados) 
-e/ou na validação do modelo (modelos supervisionados e não-supervisionados)
+(modelos supervisionados) e/ou na validação do modelo (modelos supervisionados e não-supervisionados)
 OBS: Caso você não possua uma base, utilize a base de dados de vinho brancos. Considere bons vinhos aqueles que obtiveram notas >= 6.
  Como motivo da escolha  (questão 2.a) apenas indique utilizou a base proposta pelo professor.
 A partir da base escolhida, você irá aplicar as etapas do modelo CRISP de desenvolvimento de projetos em Ciência de Dados:
