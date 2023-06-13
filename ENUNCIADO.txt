@@ -27,7 +27,7 @@ Quantos números de neurônios na camada intermediária? Como esse número foi e
 Qual será o algoritmo utilizado no treinamento?
 Qual a função de ativação será utilizada em cada camada? Justifique.
 Qual a função de otimização será utilizada neste treinamento?
-Quais serão as figuras de mérito que serão usadas na avaliação do modelo. Justifique.
+Quais serão as figuras de métrica que serão usadas na avaliação do modelo. Justifique.
 Apresente os seguintes resultados:
 A matriz de confusão do problema
 O(s) histograma(s) da(s) saída(s) da rede neural
